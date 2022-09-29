@@ -1,0 +1,207 @@
+
+
+@font-face {
+font-family: "CircularStd";
+src: url("../fonts/Comforter-Regular.woff2") format("woff2"), url("../fonts/Comforter-Regular.woff") format("woff");
+font-display: swap;
+font-weight: 400;
+font-style: normal;}
+
+@font-face {
+font-family: "Santens Regular";
+src: url("../fonts/SantensA1.woff2") format("woff2"), url("../fonts/SantensA1.woff") format("woff");
+font-display: swap;
+font-weight: 400;
+font-style: normal;}
+
+@font-face {
+font-family: "Lato";
+src: url("../fonts/lato-v23-latin-regular.woff2") format("woff2"), url("../fonts/lato-v23-latin-regular.woff") format("woff");
+font-display: swap;
+font-weight: 400;
+font-style: normal;}
+
+@font-face {
+font-family: "Lato";
+src: url("../fonts/Lato-Heavy.woff2") format("woff2"), url("../fonts/Lato-HeavyItalic.woff") format("woff");
+font-display: swap;
+font-weight: 900;
+font-style: bold;}
+
+
+
+
+
+body{
+
+font-family: "lato";
+font-style: normal;
+color: #424551;
+font-weight: 400;
+line-height: 26px;
+font-size: 16px;}
+
+
+
+[class*="__container"] {
+max-width: 780px;
+margin: 0 auto;
+padding: 0 15px;
+}
+
+
+h1{
+font-weight: 900;
+font-size: 46px;
+line-height: 60px;
+color: #1E212C;
+margin-bottom: 40px;
+}
+
+img{
+
+max-width: 100%;
+margin-bottom: 32px;}
+
+
+.ferst__container,
+.third__container{
+font-weight:700;
+font-size: 20px;
+line-height:30px;
+color: #1E212C;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+margin-bottom: 48px;}
+
+
+.second__container
+{margin-bottom: 24px ;}
+
+.next-second__container
+{margin-bottom: 48px;}
+
+.third__container
+{width: 752px;
+padding-left: 58px;
+text-shadow: none;
+margin-bottom: 48px;}
+
+.fourth__container
+{margin-bottom: 24px;}
+
+ul{margin-bottom: 24px;}
+
+.li{margin: 0 0 4px 32px;}
+
+.fourth-list
+{width: 600px;
+margin-left: 24px;}
+
+.fifth__container {margin-bottom: 50px;}
+
+
+.shit-i-know{
+	background-color: #000;
+	padding: 60px 0 20px 0;}
+
+ h2 {
+	text-shadow: 0px 4px 4px hsl(0, 7%, 33%);
+	text-align: center;
+	line-height: 80px;
+	letter-spacing: 8px;
+	font-family:"CircularStd";
+	font-weight: 400;
+	font-style: normal;
+	font-size: 90px;
+	margin-bottom: 100px;
+	color: #f6f2f6;}
+
+
+ 
+
+  a{font-family: "Santens Regular";
+	font-weight: 400;
+	font-style: normal;
+	font-size: 60px;
+	color: #fc46a1;
+font-size: 100px;}
+	
+	.kris-inst,
+	.dima-inst  {
+	font-size: 80px;
+	font-family:"CircularStd";
+	font-weight: 400;
+	font-style: normal;
+	color: #fc46a1;}
+
+	.kris-block {
+
+		background: url(../img/kris.png) top / 100% no-repeat;
+		background-attachment: fixed;
+		padding: 100px;
+		
+		}
+
+	.kris__container,
+	.dima__container{
+		font-size: 40px;
+		line-height: 50px;
+		color: #f6f2f6;
+		height: 600px;
+		overflow: auto;
+	}
+
+
+		.dima-block {
+	
+		background: url(../img/dima.jpg) top / 100% no-repeat;
+		background-attachment: fixed;
+		padding: 100px;}
+
+	.content-block{
+		padding: 10px;
+		color: #fc46a1;;
+	background-color: #000;
+	}
+
+	
+	.content-text
+
+	{	font-size: 60px;
+		line-height: 80px;
+		letter-spacing: 8px;
+		text-align: center;
+		padding: 80px 50px;
+		font-family:"CircularStd";
+		font-weight: 400;
+		font-style: normal;
+		
+	
+		color: #f7f3f5;
+}
+
+
+	.logo{
+		
+	margin-left: 100px;
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+	border:8px double #f6f2f6;
+}
+
+footer {
+	background-color: #000;
+	padding: 80px;
+}
+
+
+.button,
+.yutube,
+.tiktok {
+	display: inline-block;
+	margin-left: 60px;
+	font-size: 180px;
+	
+	
+}
