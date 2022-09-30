@@ -158,7 +158,8 @@ font-size: 100px;}
 		background: url(../img/dima.jpg) top / 100% no-repeat;
 		background-attachment: fixed;
 		background-size:cover ;
-		padding: 100px;}
+		padding: 100px;
+background-size: auto 100px;}
 
 	.content-block{
 		padding: 10px;
