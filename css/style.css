@@ -138,6 +138,7 @@ font-size: 100px;}
 
 		background: url(../img/kris.png) top / 100% no-repeat;
 		background-attachment: fixed;
+		background-size:cover ;
 		padding: 100px;
 		
 		}
@@ -156,6 +157,7 @@ font-size: 100px;}
 	
 		background: url(../img/dima.jpg) top / 100% no-repeat;
 		background-attachment: fixed;
+		background-size:cover ;
 		padding: 100px;}
 
 	.content-block{
